@@ -19,10 +19,6 @@
    - Stay updated with the latest environmental news.  
    - Access practical tips to live a more eco-friendly life.  
 
-3. **Gamification & Rewards**  
-   - Earn points for sorting waste correctly and redeem them for discounts or rewards.  
-   - Track your contributions to a cleaner environment.  
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -49,15 +45,3 @@
 | Ni Komang Vaniya Apriandani  | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/vaniyaapriann) |
 | Sinta Purnama Dewi           | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/sintaprnm) |
 | Sultan Azizul Haromain       | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/sultanazizul) |
-
----
-## 🔧 Repository
-- **[Cloud Computing](https://github.com/puturangga21/capstone-reto-cc)**  
-  Repository for backend infrastructure, API management, and cloud deployment of Reto.
-
-- **[Mobile Development](https://github.com/sultanazizul/capstone-reto-md)**  
-  Repository for the Android front-end, UI/UX design, and integration with machine learning models.
-
-- **[Machine Learning](https://github.com/kecoaxx/capstone-reto-ml)**  
-  Repository for AI-powered waste detection models using TensorFlow Lite.
-
